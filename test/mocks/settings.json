@@ -15,6 +15,16 @@
       "font-size": {
         "value": 16
       }
-    }
-  }
+    },
+    "truthy-literal": true,
+    "truthy-string": "true",
+    "falsey-literal": false,
+    "falsey-string-fallback-literal": "false",
+    "falsey-string-fallback-any": "any-non-true-string-is-false"
+  },
+  "truthy-literal": true,
+  "truthy-string": "true",
+  "falsey-literal": false,
+  "falsey-string-fallback-literal": "false",
+  "falsey-string-fallback-any": "any-non-true-string-is-false"
 }
