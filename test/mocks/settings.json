@@ -18,13 +18,15 @@
     },
     "truthy-literal": true,
     "truthy-string": "true",
+    "truthy-number": 1,
     "falsey-literal": false,
-    "falsey-string-fallback-literal": "false",
-    "falsey-string-fallback-any": "any-non-true-string-is-false"
+    "falsey-string": "",
+    "falsy-number": 0
   },
   "truthy-literal": true,
   "truthy-string": "true",
+  "truthy-number": 1,
   "falsey-literal": false,
-  "falsey-string-fallback-literal": "false",
-  "falsey-string-fallback-any": "any-non-true-string-is-false"
+  "falsey-string": "",
+  "falsy-number": 0
 }
